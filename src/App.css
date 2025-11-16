@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-image: url('./assets/img/caminhada.jpg');
+  background-size: cover;
+  height: 100vh;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.timer{
+  background-color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  padding: 100px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.nav-bar {
+  padding-top: 150px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.calculo{
+  display: block;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid #000;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
