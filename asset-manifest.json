@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculo-React-Basico/static/css/main.0dc9e135.css",
+    "main.js": "/Calculo-React-Basico/static/js/main.2ca1bf5a.js",
+    "static/media/caminhada.jpg": "/Calculo-React-Basico/static/media/caminhada.b3678f80f6a4ffdb7221.jpg",
+    "index.html": "/Calculo-React-Basico/index.html",
+    "main.0dc9e135.css.map": "/Calculo-React-Basico/static/css/main.0dc9e135.css.map",
+    "main.2ca1bf5a.js.map": "/Calculo-React-Basico/static/js/main.2ca1bf5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc9e135.css",
+    "static/js/main.2ca1bf5a.js"
+  ]
+}
